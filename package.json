@@ -1,0 +1,25 @@
+{
+  "name": "testwebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiqunLiu1990/testwebpack.git"
+  },
+  "author": "Liqun Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiqunLiu1990/testwebpack/issues"
+  },
+  "homepage": "https://github.com/LiqunLiu1990/testwebpack#readme"
+}
