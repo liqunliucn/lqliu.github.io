@@ -16,6 +16,8 @@ circle(30, 3, "#circle")
 
 circle(30, 30, "#circle")
 
+circle(35, 30, "#circle")
+
 
 
 document.querySelector("#root").appendChild(greeter());
