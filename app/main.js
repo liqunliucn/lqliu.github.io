@@ -1,10 +1,14 @@
-import * as tf from '@tensorflow/tfjs'
-
+import * as tf from '@tensorflow/tfjs';
+// import {vl} from '@vega/vega-lite-api';
 var greeter = require("./greeter.js");
 var circle = require("./circle.js");
 var d3 = require("d3");
+var vega = require('vega');
+var lodash = require('lodash');
 
-// debugger
+
+
+debugger
 var svg = d3.select("#root").append("svg").attr("id", "circle")
 
 // debugger

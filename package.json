@@ -6,7 +6,9 @@
   "dependencies": {
     "@tensorflow/tfjs": "^1.7.4",
     "d3": "^5.15.1",
-    "git": "^0.1.5"
+    "git": "^0.1.5",
+    "lodash": "^4.17.15",
+    "vega": "^5.11.1"
   },
   "devDependencies": {
     "webpack": "^4.42.1",
