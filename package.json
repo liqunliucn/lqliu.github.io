@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
+    "@tensorflow/tfjs": "^1.7.4",
     "d3": "^5.15.1",
     "git": "^0.1.5"
   },

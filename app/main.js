@@ -1,7 +1,10 @@
+import * as tf from '@tensorflow/tfjs'
+
 var greeter = require("./greeter.js");
 var d3 = require("d3");
 document.querySelector("#root").appendChild(greeter());
 
+// debuggers
 
 d3.select("#root").append("svg").selectAll("circle")
     .data([32, 57, 112, 293])
