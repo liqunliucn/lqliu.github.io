@@ -7,10 +7,14 @@
     "@tensorflow/tfjs": "^1.7.4",
     "d3": "^5.15.1",
     "git": "^0.1.5",
+    "leaflet": "^1.6.0",
+    "leaflet-css": "^0.1.0",
     "lodash": "^4.17.15",
     "vega": "^5.11.1"
   },
   "devDependencies": {
+    "css-loader": "^3.5.3",
+    "style-loader": "^1.2.1",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
