@@ -13,10 +13,10 @@
     "vega": "^5.11.1"
   },
   "devDependencies": {
-    "css-loader": "^3.5.3",
+    "css-loader": "^6.7.3",
     "style-loader": "^1.2.1",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
